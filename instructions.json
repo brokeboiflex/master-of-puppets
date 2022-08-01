@@ -2,4 +2,5 @@
   {
     "func": "goto",
     "args": ["example.com"]
+  }
 ]
