@@ -1,18 +1,5 @@
 [
   {
     "func": "goto",
-    "args": ["https://www.lidl.pl/c/lidlowe-ceny/a10009219?channel=store"]
-  },
-  {
-    "func": "screenshot",
-    "args": [{ "path": "test.png", "fullpage": true }]
-  },
-  {
-    "func": "click",
-    "args": [""]
-  },
-  {
-    "func": "screenshot",
-    "args": [{ "path": "test.png", "fullpage": true }]
-  }
+    "args": ["example.com"]
 ]
